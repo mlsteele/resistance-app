@@ -3,6 +3,7 @@
  */
 
 import React, { Component } from 'react';
+import ResistanceRoot from './index.js';
 import {
   AppRegistry,
 } from 'react-native';
