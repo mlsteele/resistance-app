@@ -10,13 +10,7 @@ import InnerRoot from './lib/index.js'
 
 export default class ResistanceRoot extends Component {
   render() {
-    return (
-      <View>
-        <Text>clr</Text>
-        <Text>Outer</Text>
-        <InnerRoot />
-      </View>
-    );
+    return <InnerRoot />
   }
 }
 
