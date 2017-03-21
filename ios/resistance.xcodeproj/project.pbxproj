@@ -1011,6 +1011,7 @@
 					"-ObjC",
 					"-lc++",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.milessteele.resistance;
 				PRODUCT_NAME = resistance;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -1028,6 +1029,7 @@
 					"-ObjC",
 					"-lc++",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.milessteele.resistance;
 				PRODUCT_NAME = resistance;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
