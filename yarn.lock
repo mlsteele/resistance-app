@@ -2913,6 +2913,10 @@ react-deep-force-update@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/react-deep-force-update/-/react-deep-force-update-1.0.1.tgz#f911b5be1d2a6fe387507dd6e9a767aa2924b4c7"
 
+react-native-fontawesome@^4.7.0:
+  version "4.7.0"
+  resolved "https://registry.yarnpkg.com/react-native-fontawesome/-/react-native-fontawesome-4.7.0.tgz#c1d43935cda4ace3f510a06cc1fea266750c3054"
+
 react-native-tabs@^1.0.9:
   version "1.0.9"
   resolved "https://registry.yarnpkg.com/react-native-tabs/-/react-native-tabs-1.0.9.tgz#75d3c35e8b5b6970869eab282372cb32e2a782cd"
